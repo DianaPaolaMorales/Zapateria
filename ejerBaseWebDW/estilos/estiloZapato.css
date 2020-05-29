@@ -1,0 +1,32 @@
+body{
+  margin-left:10px;
+  margin-top:20px;
+  margin-right:10px;
+  margin-bottom:5px;
+}
+
+input{
+  display:blok;
+  width:150px;
+  float:left;
+  margin-bottom:10px;
+}
+
+label{
+   display:blok;
+   text-align:right;
+   width:120px;
+   float:left;
+   padding-right:10px;
+}
+#recordar{
+   width:1em;
+}
+br{
+   clear:left;
+}
+#enviar{
+   width:50px;
+   margin-left:140px;
+}
+
