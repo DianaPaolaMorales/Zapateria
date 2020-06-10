@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body{
+    text-align: center;
+    background-color: lime;
+    font-family: 'Lobster', cursive;
+}
+div{
+    
+    background-color: white;
+    width: 700px;
+    margin: 0px auto;
+    padding: 1px;
+}
+
+img{
+    
+    height:100px;
+    width:100px;
+    margin:auto;
+    display:block;
+    border-radius: 15px;
+ }
+
+ .titulo{
+     
+    font-family: 'Lobster', cursive;
+    margin: 10px auto;
+    text-align: center;
+ }
